@@ -979,3 +979,99 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:35:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=111, z=17}
 [23:35:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=111, z=18}
 [23:35:45] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/17922, l='ServerLevel[world]', x=-60.50, y=84.00, z=-17.50]
+[23:36:20] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/18941, l='ServerLevel[world]', x=42.50, y=74.00, z=-84.50]
+[23:37:04] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/20411, l='ServerLevel[world]', x=-61.50, y=84.00, z=-17.50]
+[23:37:04] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/20428, l='ServerLevel[world]', x=44.50, y=74.00, z=-83.50]
+[23:37:28] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/21292, l='ServerLevel[world]', x=42.50, y=74.00, z=-83.50]
+[23:38:05] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/22037, l='ServerLevel[world]', x=-61.50, y=84.00, z=-19.50]
+[23:38:09] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:38:24] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/22643, l='ServerLevel[world]', x=25.50, y=80.00, z=-101.50]
+[23:38:25] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:38:33] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:40:49] [Server thread/INFO]: death.attack.mob
+[23:40:49] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -105, 71, -42
+[23:41:20] [Server thread/INFO]: death.attack.mob
+[23:41:20] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 57, 108, 39
+[23:42:17] [Server thread/INFO]: death.attack.starve
+[23:42:17] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -75, 72, 95
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=111, z=36}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=111, z=36}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=110, z=37}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=110, z=37}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=110, z=37}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=110, z=37}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=110, z=37}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=111, z=36}
+[23:43:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=111, z=36}
+[23:46:07] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:46:50] [Server thread/INFO]: chat.type.advancement.task
+[23:50:28] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/31921, l='ServerLevel[world]', x=58.70, y=151.00, z=283.30, removed=DISCARDED] died, message: 'death.attack.mob'
+[23:50:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/31923, l='ServerLevel[world]', x=54.30, y=154.00, z=308.51, removed=DISCARDED] died, message: 'entity.minecraft.villager.none died from internal damage.'
+[23:50:33] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.nitwit'/31924, l='ServerLevel[world]', x=60.81, y=154.00, z=319.63] died, message: 'entity.minecraft.villager.nitwit died from internal damage.'
+[23:50:33] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/31778, l='ServerLevel[world]', x=55.08, y=151.00, z=295.33] died, message: 'death.attack.mob'
+[23:50:36] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/32406, l='ServerLevel[world]', x=46.60, y=157.00, z=345.53, removed=DISCARDED] died, message: 'death.attack.mob'
+[23:50:39] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/32076, l='ServerLevel[world]', x=28.36, y=159.00, z=311.53] died, message: 'death.attack.mob'
+[23:50:39] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/31776, l='ServerLevel[world]', x=79.26, y=149.00, z=312.70, removed=DISCARDED] died, message: 'entity.minecraft.villager.none died from internal damage.'
+[23:50:40] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.librarian'/32405, l='ServerLevel[world]', x=61.23, y=156.00, z=343.59, removed=DISCARDED] died, message: 'death.attack.mob'
+[23:50:40] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.nitwit'/32082, l='ServerLevel[world]', x=38.46, y=160.00, z=326.30, removed=DISCARDED] died, message: 'entity.minecraft.villager.nitwit died from internal damage.'
+[23:50:42] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/32292, l='ServerLevel[world]', x=30.36, y=159.99, z=357.60, removed=DISCARDED] died, message: 'entity.minecraft.villager.none died from internal damage.'
+[23:50:42] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/32083, l='ServerLevel[world]', x=36.61, y=160.00, z=328.50] died, message: 'entity.minecraft.villager.none died from internal damage.'
+[23:50:45] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/32080, l='ServerLevel[world]', x=97.36, y=149.00, z=336.35, removed=DISCARDED] died, message: 'entity.minecraft.villager.cartographer died from internal damage.'
+[23:50:47] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.nitwit'/32081, l='ServerLevel[world]', x=97.30, y=148.00, z=338.70] died, message: 'death.attack.mob'
+[23:50:49] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/31922, l='ServerLevel[world]', x=34.70, y=160.00, z=301.65] died, message: 'death.attack.mob'
+[23:50:58] [Server thread/INFO]: death.attack.mob
+[23:50:58] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 12, 161, 359
+[23:51:10] [Server thread/INFO]: inquisitor1102 died from internal damage.
+[23:51:10] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 2, 113, 34
+[23:51:21] [Server thread/INFO]: death.attack.starve.player
+[23:51:21] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -11, 107, 49
+[23:51:49] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/37627, l='ServerLevel[world]', x=44.50, y=74.00, z=-84.50]
+[23:51:56] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/37720, l='ServerLevel[world]', x=93.50, y=79.00, z=-107.50]
+[23:52:11] [Server thread/INFO]: death.attack.mob
+[23:52:11] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -1, 90, -6
+[23:52:23] [Server thread/INFO]: death.attack.genericKill
+[23:52:23] [Server thread/INFO]: death.attack.genericKill.player
+[23:52:23] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 39, 110, 26
+[23:52:23] [Server thread/INFO]: chat.type.admin
+[23:52:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=109, z=41}
+[23:52:30] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/39651, l='ServerLevel[world]', x=-8.50, y=81.00, z=-74.50]
+[23:52:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=109, z=41}
+[23:52:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=109, z=41}
+[23:52:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=109, z=41}
+[23:52:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:52:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-6, y=110, z=41}
+[23:53:17] [Server thread/INFO]: death.attack.mob
+[23:53:17] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 10, 126, 133
+[23:53:27] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:53:41] [Server thread/INFO]: death.attack.mob
+[23:53:41] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 15, 113, 38
+[23:53:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.nitwit'/43700, l='ServerLevel[world]', x=70.27, y=152.00, z=291.92] died, message: 'death.attack.mob'
+[23:53:50] [Server thread/INFO]: chat.type.admin
+[23:54:08] [Server thread/INFO]: chat.type.admin
+[23:54:29] [Server thread/INFO]: death.attack.mob
+[23:54:29] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 14, 81, -24
+[23:54:39] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:54:45] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/45747, l='ServerLevel[world]', x=54.80, y=154.00, z=312.30, removed=DISCARDED] died, message: 'death.attack.mob'
+[23:54:51] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:55:59] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.shepherd'/45789, l='ServerLevel[world]', x=54.93, y=151.00, z=293.58] died, message: 'death.attack.mob'
