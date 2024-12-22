@@ -1,0 +1,62 @@
+{
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-22 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-22 23:06:55 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2024-12-22 23:06:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-22 23:06:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "overgrown_greens": "2024-12-22 23:06:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "highland": "2024-12-22 23:15:00 +0000",
+      "jade_cliffs": "2024-12-22 23:15:59 +0000",
+      "overgrown_greens": "2024-12-22 23:06:55 +0000",
+      "moor": "2024-12-22 23:15:01 +0000",
+      "grassland": "2024-12-22 23:15:02 +0000"
+    },
+    "done": false
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-22 23:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-22 23:14:48 +0000",
+      "minecraft:stony_shore": "2024-12-22 23:08:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-22 23:15:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
