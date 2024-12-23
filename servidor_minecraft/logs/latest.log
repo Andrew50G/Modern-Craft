@@ -12,3 +12,39 @@
 [00:03:19] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 29, 136, 203
 [00:05:28] [Server thread/INFO]: death.attack.mob
 [00:05:28] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 308, 142, 23
+[00:07:31] [Server thread/INFO]: death.attack.mob
+[00:07:31] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 244, 112, -22
+[00:07:55] [Server thread/INFO]: death.attack.mob
+[00:07:55] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 194, 162, 154
+[00:08:01] [Server thread/INFO]: death.attack.mob
+[00:08:01] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 198, 164, 160
+[00:09:17] [Server thread/INFO]: death.attack.mob
+[00:09:17] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 63, 155, 313
+[00:10:04] [Server thread/INFO]: death.attack.starve.player
+[00:10:04] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 97, 114, 23
+[00:14:21] [Server thread/INFO]: death.attack.mob
+[00:14:21] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 170, 160, 159
+[00:14:36] [Server thread/INFO]: death.attack.mob
+[00:14:36] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 166, 160, 154
+[00:14:47] [Server thread/INFO]: death.attack.mob
+[00:14:47] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 199, 164, 158
+[00:15:05] [Server thread/INFO]: death.attack.mob
+[00:15:05] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 195, 162, 157
+[00:15:13] [Server thread/INFO]: inquisitor1102 died from internal damage.
+[00:15:13] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 196, 163, 153
+[00:15:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=197, y=163, z=155}
+[00:15:20] [Server thread/INFO]: death.attack.mob
+[00:15:20] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 199, 163, 161
+[00:15:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=199, y=163, z=159}
+[00:15:26] [Server thread/INFO]: death.attack.mob
+[00:15:26] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 196, 163, 152
+[00:15:55] [Server thread/INFO]: death.attack.mob
+[00:15:55] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 66, 136, 141
+[00:16:18] [Server thread/INFO]: death.attack.mob
+[00:16:18] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 239, 152, 92
+[00:16:28] [Server thread/INFO]: death.attack.mob
+[00:16:28] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 196, 163, 158
+[00:16:35] [Server thread/INFO]: death.attack.mob
+[00:16:35] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 199, 164, 154
+[00:16:41] [Server thread/INFO]: death.attack.mob
+[00:16:41] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 198, 164, 157
