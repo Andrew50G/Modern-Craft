@@ -1007,3 +1007,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01:56:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
 [01:56:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
 [01:56:46] [Server thread/WARN]: Skipping Entity with id prionmod:starved
+[01:58:23] [Server thread/INFO]: chat.type.advancement.task
+[01:58:31] [Server thread/INFO]: chat.type.advancement.task
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:starved
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:starved
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
+[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:vile
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:vile
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:starved
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
+[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:starved
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
+[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:hellhound
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:vile
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:vile
+[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
+[02:00:51] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
+[02:03:31] [Server thread/INFO]: chat.type.advancement.task
+[02:03:58] [Server thread/INFO]: death.attack.arrow
+[02:03:58] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 32, 147, 322
+[02:04:33] [Server thread/INFO]: chat.type.advancement.task
+[02:05:45] [Server thread/INFO]: chat.type.advancement.task
+[02:06:03] [Server thread/INFO]: death.attack.arrow
+[02:06:03] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 31, 146, 320
+[02:07:08] [Server thread/INFO]: chat.type.advancement.task
