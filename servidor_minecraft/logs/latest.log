@@ -1073,3 +1073,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:09:28] [Server thread/INFO]: chat.type.admin
 [02:11:21] [Server thread/INFO]: chat.type.advancement.task
 [02:12:30] [Server thread/INFO]: chat.type.advancement.task
+[02:18:59] [Server thread/WARN]: Andrew_50G moved wrongly!
+[02:28:20] [Server thread/INFO]: Andrew_50G lost connection: multiplayer.disconnect.generic
+[02:28:20] [Server thread/INFO]: multiplayer.player.left
+[02:28:20] [Server thread/INFO]: [voicechat] Disconnecting client Andrew_50G
+[02:28:32] [Server thread/INFO]: commands.stop.stopping
+[02:28:33] [Server thread/INFO]: Stopping server
+[02:28:33] [Server thread/INFO]: Saving players
+[02:28:33] [Server thread/INFO]: Saving worlds
+[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

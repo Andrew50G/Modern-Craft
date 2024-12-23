@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-23 01:57:32 +0000"
@@ -122,6 +128,12 @@
   "pfm:recipes/furniture/palm_biomesoplenty_red_simple_bed": {
     "criteria": {
       "has_bed": "2024-12-23 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 02:05:49 +0000"
@@ -200,6 +218,12 @@
   "pfm:recipes/furniture/pink_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-23 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -290,6 +314,12 @@
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_black_sheet": "2024-12-23 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -473,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2024-12-23 02:03:24 +0000"
@@ -512,6 +548,12 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2024-12-23 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -587,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:04:33 +0000"
@@ -641,6 +689,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-23 01:57:02 +0000"
@@ -650,6 +704,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-23 01:57:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -716,6 +776,12 @@
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2024-12-23 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -1079,6 +1145,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/purple_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-23 02:03:00 +0000"
@@ -1097,9 +1169,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:04:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-23 02:17:02 +0000"
     },
     "done": true
   },
@@ -1223,6 +1307,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 02:05:49 +0000"
@@ -1289,6 +1379,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
   "minetraps:recipes/misc/bear_trap": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:04:33 +0000"
@@ -1316,6 +1412,12 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-23 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -1661,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-23 02:16:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_red_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-23 02:02:29 +0000"
@@ -1697,6 +1805,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2024-12-23 01:58:23 +0000"
@@ -1730,6 +1844,18 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2024-12-23 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
     },
     "done": true
   },
@@ -1787,6 +1913,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2024-12-23 01:57:48 +0000"
@@ -1823,9 +1955,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2024-12-23 01:57:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
     },
     "done": true
   },
@@ -1838,6 +1982,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -1862,6 +2012,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-23 02:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -1949,6 +2111,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-23 01:57:32 +0000"
@@ -1976,6 +2150,12 @@
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2024-12-23 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-23 02:17:02 +0000"
     },
     "done": true
   },
@@ -2075,6 +2255,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2024-12-23 02:03:00 +0000"
@@ -2099,6 +2285,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-23 02:03:00 +0000"
@@ -2117,6 +2309,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-23 01:57:02 +0000"
@@ -2126,6 +2330,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:04:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -2177,6 +2387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 02:17:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2024-12-23 02:03:00 +0000"
@@ -2219,15 +2435,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/iron_oven_range_hood": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 02:04:33 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/empyreal_biomesoplenty_red_classic_bed": {
     "criteria": {
       "has_bed": "2024-12-23 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -2276,6 +2510,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 02:05:49 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
@@ -2546,6 +2786,12 @@
   "pfm:recipes/furniture/birch_table_basic": {
     "criteria": {
       "has_planks": "2024-12-23 01:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-23 02:20:50 +0000"
     },
     "done": true
   },
