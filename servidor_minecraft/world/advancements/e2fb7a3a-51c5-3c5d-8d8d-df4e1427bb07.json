@@ -75,5 +75,17 @@
     },
     "done": true
   },
+  "watching:main/survive/3_days": {
+    "criteria": {
+      "requirement": "2024-12-23 01:52:36 +0000"
+    },
+    "done": true
+  },
+  "watching:main/root": {
+    "criteria": {
+      "requirement": "2024-12-23 01:52:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
