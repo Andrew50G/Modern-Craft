@@ -1069,3 +1069,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:06:03] [Server thread/INFO]: death.attack.arrow
 [02:06:03] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 31, 146, 320
 [02:07:08] [Server thread/INFO]: chat.type.advancement.task
+[02:08:49] [Server thread/INFO]: chat.type.admin
+[02:09:28] [Server thread/INFO]: chat.type.admin
+[02:11:21] [Server thread/INFO]: chat.type.advancement.task
+[02:12:30] [Server thread/INFO]: chat.type.advancement.task
