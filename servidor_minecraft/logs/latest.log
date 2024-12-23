@@ -48,3 +48,38 @@
 [00:16:35] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 199, 164, 154
 [00:16:41] [Server thread/INFO]: death.attack.mob
 [00:16:41] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 198, 164, 157
+[00:16:48] [Server thread/INFO]: death.attack.mob
+[00:16:48] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 198, 164, 154
+[00:16:54] [Server thread/INFO]: death.attack.mob
+[00:16:54] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 200, 163, 156
+[00:16:59] [Server thread/INFO]: death.attack.mob
+[00:16:59] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 199, 163, 156
+[00:17:05] [Server thread/INFO]: death.attack.mob
+[00:17:05] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 190, 162, 151
+[00:18:04] [Server thread/INFO]: death.attack.mob
+[00:18:04] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 15, 160, 341
+[00:19:49] [Server thread/INFO]: death.attack.mob
+[00:19:49] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 201, 163, 157
+[00:20:01] [Server thread/INFO]: death.attack.mob
+[00:20:01] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 197, 164, 154
+[00:20:06] [Server thread/INFO]: inquisitor1102 died from internal damage.
+[00:20:06] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 197, 164, 157
+[00:20:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=199, y=164, z=158}
+[00:20:13] [Server thread/INFO]: death.attack.mob
+[00:20:13] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 196, 164, 157
+[00:20:38] [Server thread/INFO]: inquisitor1102 died from internal damage.
+[00:20:38] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 195, 164, 156
+[00:21:12] [Server thread/INFO]: death.attack.mob
+[00:21:12] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 104, 158, 248
+[00:21:59] [Server thread/INFO]: death.attack.mob
+[00:21:59] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 195, 164, 157
+[00:23:40] [Server thread/INFO]: death.attack.mob
+[00:23:40] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 246, 152, 89
+[00:23:46] [Server thread/INFO]: [Not Secure] chat.type.text
+[00:23:56] [Server thread/INFO]: death.attack.mob
+[00:23:56] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 198, 163, 156
+[00:25:00] [Server thread/INFO]: death.attack.mob
+[00:25:00] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 137, 128, 30
+[00:26:55] [Server thread/INFO]: inquisitor1102 lost connection: multiplayer.disconnect.generic
+[00:26:55] [Server thread/INFO]: multiplayer.player.left
+[00:26:55] [Server thread/INFO]: [voicechat] Disconnecting client inquisitor1102
