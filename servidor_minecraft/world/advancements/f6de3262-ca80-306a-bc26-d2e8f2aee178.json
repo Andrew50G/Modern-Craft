@@ -1,37 +1,138 @@
 {
-  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
+  "stellarity:cursed_tome/root": {
     "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
+      "requirement": "2024-12-22 23:31:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "adorabuild_structures:overworld_structures": {
     "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
+      "always": "2024-12-22 23:31:08 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_counter": {
+  "pfm:grant_book_on_first_join": {
     "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
+      "tick": "2024-12-22 23:31:08 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/transportation/echo_boat": {
+  "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
+      "requirement": "2024-12-22 23:31:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_mutton": "2024-12-22 23:48:20 +0000"
+      "overgrown_greens": "2024-12-22 23:31:09 +0000"
     },
     "done": true
   },
-  "minetraps:recipes/misc/pitfall_trap": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
+      "highland": "2024-12-22 23:34:03 +0000",
+      "jade_cliffs": "2024-12-22 23:47:37 +0000",
+      "moor": "2024-12-22 23:34:18 +0000",
+      "overgrown_greens": "2024-12-22 23:31:09 +0000",
+      "grassland": "2024-12-22 23:44:10 +0000"
+    },
+    "done": false
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-12-22 23:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-22 23:31:32 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-22 23:33:42 +0000"
+    },
+    "done": true
+  },
+  "minetraps:recipes/misc/toxin_bucket": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-22 23:33:42 +0000"
+    },
+    "done": true
+  },
+  "minetraps:recipes/misc/toxin_bottle": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-22 23:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-22 23:38:54 +0000",
+      "minecraft:stony_shore": "2024-12-22 23:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-22 23:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-22 23:46:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-22 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-22 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-22 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-22 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-22 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-22 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-22 23:46:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2024-12-22 23:46:27 +0000"
     },
     "done": true
   },
@@ -41,75 +142,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/pine_biomesoplenty_log_stool": {
-    "criteria": {
-      "has_log": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crank": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/azalea_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/spring_launcher": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/pine_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_simple_stool": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_side_table": {
-    "criteria": {
-      "has_dark_oak_side_table": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_blue": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_orange": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
     },
     "done": true
   },
@@ -119,45 +154,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_magenta": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_table_classic": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minetraps:recipes/misc/barbed_wire_fence": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
@@ -167,21 +166,321 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minetraps:recipes/misc/pitfall_trap": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/basic_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minetraps:recipes/misc/ghost_block": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "minetraps:recipes/misc/troll_block": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2024-12-22 23:46:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/soap": {
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
-      "has_porkchop": "2024-12-22 23:48:22 +0000"
+      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/transportation/bloom_boat": {
+  "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
+      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "minetraps:recipes/misc/barbed_wire_fence": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
@@ -197,36 +496,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-22 23:31:08 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_chair_classic": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
@@ -239,57 +508,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-12-22 23:47:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-22 23:47:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-22 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2024-12-22 23:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
     },
     "done": true
   },
@@ -305,57 +532,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/pine_button": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:overworld_structures": {
-    "criteria": {
-      "always": "2024-12-22 23:31:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
-    "criteria": {
-      "has_dark_oak_fancy_bed": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_table": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/iron_stove": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
     },
     "done": true
   },
@@ -377,195 +562,15 @@
     },
     "done": true
   },
-  "pfm:recipes/root": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_pine": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-12-22 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2024-12-22 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_classic_stool": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/salmon_trophy": {
-    "criteria": {
-      "has_salmon_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/silverfish_trophy": {
-    "criteria": {
-      "has_silverfish_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_nightstand": {
-    "criteria": {
-      "has_dark_oak_nightstand": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2024-12-22 23:31:08 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_cross_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2024-12-22 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_shelf": {
-    "criteria": {
-      "has_dark_oak_shelf": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/walnut_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bear_trophy": {
-    "criteria": {
-      "has_bear_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_dining_bench": {
-    "criteria": {
-      "has_dark_oak_dining_bench": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-12-22 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-22 23:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-22 23:48:22 +0000"
-    },
-    "done": true
-  },
-  "portablemobs:recipes/misc/basic_capture_cell": {
-    "criteria": {
-      "recipe_condition": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_raw_table_log": {
-    "criteria": {
-      "has_log": "2024-12-22 23:54:56 +0000"
     },
     "done": true
   },
@@ -581,75 +586,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_pink": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minetraps:recipes/misc/toxin_bucket": {
-    "criteria": {
-      "has_rotten_flesh": "2024-12-22 23:33:42 +0000"
-    },
-    "done": true
-  },
-  "stellarity:events/on_death": {
-    "criteria": {
-      "requirement": "2024-12-22 23:31:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/pine_biomesoplenty_table_basic": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/timber_frame": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_raw_table_log": {
-    "criteria": {
-      "has_log": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-22 23:54:56 +0000"
     },
     "done": true
   },
@@ -665,105 +610,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_cupboard": {
-    "criteria": {
-      "has_dark_oak_cupboard": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slingshot": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/timber_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/pine_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "overgrown_greens": "2024-12-22 23:31:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/goat_trophy": {
-    "criteria": {
-      "has_goat_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "minecraft:planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
   "minetraps:recipes/misc/spikes": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/paraglider": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
     },
     "done": true
   },
@@ -773,75 +622,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-22 23:31:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_raw_table_log": {
-    "criteria": {
-      "has_log": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_table_classic": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/clock_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_black": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_modern_stool": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-22 23:48:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_green": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
     },
     "done": true
   },
@@ -851,63 +634,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_classic_nightstand": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_log_stool": {
-    "criteria": {
-      "has_log": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-22 23:47:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_purple": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blaze_trophy": {
-    "criteria": {
-      "has_blaze_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_chair_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
     },
     "done": true
   },
@@ -923,93 +652,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_white": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wolf_trophy": {
-    "criteria": {
-      "has_wolf_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_chair": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/timber_cross_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_table_log": {
-    "criteria": {
-      "has_log": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_corner_trim": {
-    "criteria": {
-      "has_dark_oak_corner_trim": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_modern_stool": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_classic_stool": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-22 23:46:23 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_dark_oak": {
-    "criteria": {
-      "has_the_recipe": "2024-12-22 23:58:22 +0000"
     },
     "done": true
   },
@@ -1025,39 +676,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_brown": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_gray": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
     },
     "done": true
   },
@@ -1067,21 +688,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/faucet": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
     },
     "done": true
   },
@@ -1091,51 +700,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-22 23:46:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-22 23:46:24 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2024-12-22 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/pine_planks": {
-    "criteria": {
-      "has_logs": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_simple_bunk_ladder": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
     },
     "done": true
   },
@@ -1157,229 +724,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_counter": {
-    "criteria": {
-      "has_dark_oak_counter": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_simple_stool": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-22 23:46:27 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_table_basic": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "highland": "2024-12-22 23:34:03 +0000",
-      "jade_cliffs": "2024-12-22 23:47:37 +0000",
-      "moor": "2024-12-22 23:34:18 +0000",
-      "overgrown_greens": "2024-12-22 23:31:09 +0000",
-      "grassland": "2024-12-22 23:44:10 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/spruce_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_bench": {
-    "criteria": {
-      "has_dark_oak_bench": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_log_stool": {
-    "criteria": {
-      "has_log": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-22 23:48:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "has_emerald": "2024-12-22 23:46:27 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_chair_modern": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_light_blue": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fox_trophy": {
-    "criteria": {
-      "has_fox_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-22 23:46:14 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/pine_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "supplementaries:blackboard_white": "2024-12-22 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_drawer": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "minetraps:recipes/misc/ghost_block": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-23 00:11:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-22 23:48:24 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/tropical_fish_trophy": {
-    "criteria": {
-      "has_tropical_fish_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_couch": {
-    "criteria": {
-      "has_dark_oak_couch": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "lolmct:recipes/decorations/spruce_crafting_table": {
-    "criteria": {
-      "has_the_recipe": "2024-12-23 00:12:34 +0000"
     },
     "done": true
   },
@@ -1395,51 +748,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_chair_classic": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2024-12-22 23:47:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spider_trophy": {
-    "criteria": {
-      "has_spider_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_classic_nightstand": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-12-22 23:47:22 +0000"
     },
     "done": true
   },
@@ -1449,51 +760,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_blue": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_chair": "2024-12-22 23:58:22 +0000"
     },
     "done": true
   },
@@ -1503,27 +772,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/pine_sign": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_table_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-23 00:11:49 +0000"
     },
     "done": true
   },
@@ -1533,105 +784,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/pufferfish_trophy": {
-    "criteria": {
-      "has_pufferfish_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_chair_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_frame": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-22 23:46:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "minetraps:recipes/misc/toxin_bottle": {
-    "criteria": {
-      "has_rotten_flesh": "2024-12-22 23:33:42 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:57:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-22 23:48:20 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-22 23:57:44 +0000"
     },
     "done": true
   },
@@ -1641,57 +796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-22 23:46:23 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_desk": {
-    "criteria": {
-      "has_dark_oak_desk": "2024-12-22 23:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_cyan": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/iron_oven_range_hood": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_yellow": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_table_dinner": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:58:22 +0000"
     },
     "done": true
   },
@@ -1701,57 +808,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/pine_slab": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-22 23:48:20 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/flowering_azalea_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 23:48:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_light_gray": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_chair": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:54:56 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_chair_modern": {
-    "criteria": {
-      "has_planks": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_red": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
     },
     "done": true
   },
@@ -1761,46 +820,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-22 23:47:18 +0000"
-    },
-    "done": true
-  },
-  "minetraps:recipes/misc/troll_block": {
-    "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pine_biomesoplenty_table_log": {
-    "criteria": {
-      "has_log": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2024-12-22 23:38:54 +0000",
-      "minecraft:stony_shore": "2024-12-22 23:41:39 +0000"
-    },
-    "done": false
-  },
-  "lolmct:recipes/decorations/dark_oak_crafting_table": {
-    "criteria": {
-      "has_the_recipe": "2024-12-22 23:58:21 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
     },
     "done": true
   },
@@ -1816,24 +838,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-12-22 23:46:14 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/skeleton_horse_trophy": {
-    "criteria": {
-      "has_skeleton_horse_trophy": "2024-12-22 23:55:33 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_yellow": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:50 +0000"
@@ -1846,9 +850,237 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_wither_skeleton_trophy": "2024-12-22 23:55:33 +0000"
+      "has_lots_of_items": "2024-12-22 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-22 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-22 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-22 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-22 23:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-22 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 23:48:05 +0000"
     },
     "done": true
   },
@@ -1858,9 +1090,699 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_lime": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_stick": "2024-12-22 23:46:49 +0000"
+      "has_mutton": "2024-12-22 23:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-22 23:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-22 23:48:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 23:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 23:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 23:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 23:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-22 23:48:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:54:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2024-12-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-22 23:57:44 +0000"
+    },
+    "done": true
+  },
+  "lolmct:recipes/decorations/dark_oak_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 23:58:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_log": {
+    "criteria": {
+      "has_log": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2024-12-22 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-22 23:58:22 +0000"
     },
     "done": true
   },
@@ -1870,9 +1792,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "pfm:recipes/furniture/spruce_kitchen_sink": {
     "criteria": {
-      "has_gold_ingot": "2024-12-22 23:46:46 +0000"
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_log_stool": {
+    "criteria": {
+      "has_log": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 00:11:49 +0000"
+    },
+    "done": true
+  },
+  "lolmct:recipes/decorations/spruce_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 00:12:34 +0000"
+    },
+    "done": true
+  },
+  "watching:main/didnt_notice_herobrine": {
+    "criteria": {
+      "requirement": "2024-12-24 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "watching:main/survive/3_days": {
+    "criteria": {
+      "requirement": "2024-12-24 00:50:59 +0000"
+    },
+    "done": true
+  },
+  "watching:main/root": {
+    "criteria": {
+      "requirement": "2024-12-24 00:46:47 +0000"
     },
     "done": true
   },

@@ -1,13 +1,13 @@
-[01:37:31] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
-[01:37:31] [ForkJoinPool-1-worker-3/WARN]: Mod gravestones uses the version v1.15 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:37:31] [ForkJoinPool-1-worker-1/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:37:31] [ForkJoinPool-1-worker-1/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:37:32] [main/WARN]: Warnings were found!
+[00:45:32] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[00:45:32] [ForkJoinPool-1-worker-3/WARN]: Mod gravestones uses the version v1.15 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:45:32] [ForkJoinPool-1-worker-4/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:45:32] [ForkJoinPool-1-worker-2/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:45:32] [main/WARN]: Warnings were found!
  - Mod 'Exposure' (exposure) 1.7.7 recommends version 0.5.1-f or later of create, which is missing!
 	 - You should install version 0.5.1-f or later of create for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[01:37:32] [main/INFO]: Loading 193 mods:
+[00:45:32] [main/INFO]: Loading 193 mods:
 	- adorabuild_structures 2.8.0
 	- amendments 1.20-1.2.12
 	- amplified_nether 1.2.5
@@ -230,118 +230,116 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[01:37:32] [main/WARN]: Found 1 non-fabric mod:
+[00:45:32] [main/WARN]: Found 1 non-fabric mod:
 	- ParCool-1.20-3.2.0.0-R.jar
-[01:37:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Modern-Craft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:37:32] [main/INFO]: Compatibility level set to JAVA_17
-[01:37:32] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:37:32] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:37:32] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 3 override(s) found
-[01:37:32] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 0 override(s) found
-[01:37:32] [main/INFO]: Applying Nashorn fix
-[01:37:32] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:37:32] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:37:33] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[01:37:33] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[01:37:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
-[01:37:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
-[01:37:33] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
-[01:37:33] [main/WARN]: @Mixin target net.minecraft.class_572 was not found fastmove.mixins.json:BipedEntityModelMixin from mod fastmove
-[01:37:33] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[01:37:33] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[01:37:33] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[01:37:33] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[01:37:33] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[01:37:33] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
-[01:37:33] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[01:37:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[01:37:33] [main/WARN]: Error loading class: net/minecraft/class_635 (java.lang.ClassNotFoundException: net/minecraft/class_635)
-[01:37:33] [main/WARN]: @Mixin target net.minecraft.class_635 was not found tacz.mixins.json:client.network.ClientLoginNetworkHandlerAccessor from mod tacz
-[01:37:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[01:37:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:37:36] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$ceb000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[01:37:36] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[01:37:36] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[01:37:36] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[01:37:36] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonBaseBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_block.PistonBlockMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
-[01:37:36] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonBaseBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_block.PistonBlockMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
-[01:37:36] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.RedStoneWireBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.redstone_wire.RedstoneWireBlockMixin from mod lithium->@Redirect::removeAllocation1()[Lnet/minecraft/class_2350; with priority 1000
-[01:37:36] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.RedStoneWireBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.redstone_wire.RedstoneWireBlockMixin from mod lithium->@Redirect::removeAllocation2()[Lnet/minecraft/class_2350; with priority 1000
-[01:37:39] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[01:37:39] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[01:37:39] [main/INFO]: Vanilla bootstrap took 4649 milliseconds
-[01:37:39] [main/INFO]: fabric loader environment detected
-[01:37:39] [main/INFO]: Loaded config for: cupboard.json
-[01:37:40] [main/INFO]: Loaded config amendments-common.json
-[01:37:40] [main/INFO]: Connectivity initialized
-[01:37:40] [main/INFO]: Initializing network...
-[01:37:40] [main/INFO]: Initialized network!
-[01:37:40] [main/INFO]: Bypassed Mojang DFU
-[01:37:40] [main/INFO]: Instantiating Mojang DFU
-[01:37:41] [main/ERROR]: No data fixer registered for crystallized_amber
-[01:37:41] [main/INFO]: initializing FastMove :3
-[01:37:41] [main/ERROR]: No data fixer registered for anomaly
-[01:37:42] [main/INFO]: Initializing ServerSide Packet Registries
-[01:37:42] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[01:37:42] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
-[01:37:42] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
-[01:37:42] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[01:37:42] [main/INFO]: [STDOUT]: All 24 config entries have been set properly
-[01:37:42] [main/INFO]: Registering ModBlocks for minetraps
-[01:37:42] [main/INFO]: Registering ModFluids for minetraps
-[01:37:42] [main/INFO]: Registering ModItems for minetraps
-[01:37:42] [main/INFO]: Registering Item Groups for minetraps
-[01:37:42] [main/INFO]: Giving mobs a fresh coat of paint...
-[01:37:42] [main/INFO]: glisco: I like this approach, cause it's stateless. And stateless approaches are always good since state management is pain - BasiqueEvangelist: I like french bread
-[01:37:42] [main/INFO]: Constructing common components for puzzleslib:main
-[01:37:42] [main/INFO]: [Quad] Initialising the Quad mod power! >:P
-[01:37:43] [main/INFO]: [STDOUT]: /workspaces/Modern-Craft/servidor_minecraft/config
-[01:37:43] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Is up to date!
-[01:37:43] [main/INFO]: Loaded config supplementaries-common.json
-[01:37:43] [main/INFO]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[01:37:43] [main/INFO]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[01:37:44] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01:37:44] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[01:37:44] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[01:37:44] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[01:37:44] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[01:37:44] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[01:37:44] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[01:37:44] [main/INFO]: Registered JSON trade offer adapter.
-[01:37:44] [main/INFO]: [voicechat] Compatibility version 18
-[01:37:44] [main/INFO]: [voicechat] Loading plugins
-[01:37:44] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[01:37:44] [main/INFO]: [voicechat] Initializing plugins
-[01:37:44] [main/INFO]: Initializing Simple Voice Chat integration
-[01:37:44] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[01:37:44] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
-[01:37:44] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[01:37:45] [main/INFO]: Initialized block sets in 19ms
-[01:37:45] [main/INFO]: Initialized color sets in 42ms
-[01:37:45] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 0, 10, 3, 0] ms
-[01:37:45] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
-[01:37:45] [main/WARN]: Found block type with duplicate id (ecologics:azalea), skipping
-[01:37:45] [main/WARN]: Found block type with duplicate id (ecologics:flowering_azalea), skipping
-[01:37:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:37:48] [main/INFO]: Starting PFM Data Generation
-[01:37:50] [main/INFO]: Data providers took: 1856 ms
-[01:37:50] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 18 ms
-[01:37:50] [main/INFO]: Loaded config for: connectivity.json
-[01:37:50] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
-[01:37:52] [main/WARN]: prionmod:infection missing from registry, but requested!
-[01:37:52] [main/WARN]: prionmod:stun missing from registry, but requested!
-[01:37:52] [main/WARN]: prionmod:whispers_from_within missing from registry, but requested!
-[01:37:52] [main/WARN]: prionmod:internal_decay missing from registry, but requested!
-[01:37:52] [main/WARN]: prionmod:rage missing from registry, but requested!
-[01:37:52] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[01:37:53] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[01:37:53] [Worker-Main-4/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+[00:45:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Modern-Craft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:45:33] [main/INFO]: Compatibility level set to JAVA_17
+[00:45:33] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:33] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:33] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 3 override(s) found
+[00:45:33] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 0 override(s) found
+[00:45:33] [main/INFO]: Applying Nashorn fix
+[00:45:33] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:33] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:34] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[00:45:34] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[00:45:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
+[00:45:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[00:45:34] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[00:45:34] [main/WARN]: @Mixin target net.minecraft.class_572 was not found fastmove.mixins.json:BipedEntityModelMixin from mod fastmove
+[00:45:34] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[00:45:34] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[00:45:34] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[00:45:34] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[00:45:34] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[00:45:34] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
+[00:45:34] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[00:45:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[00:45:34] [main/WARN]: Error loading class: net/minecraft/class_635 (java.lang.ClassNotFoundException: net/minecraft/class_635)
+[00:45:34] [main/WARN]: @Mixin target net.minecraft.class_635 was not found tacz.mixins.json:client.network.ClientLoginNetworkHandlerAccessor from mod tacz
+[00:45:35] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[00:45:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:45:37] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$ceb000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:45:37] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[00:45:37] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[00:45:37] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[00:45:37] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonBaseBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_block.PistonBlockMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[00:45:37] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonBaseBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_block.PistonBlockMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[00:45:38] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.RedStoneWireBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.redstone_wire.RedstoneWireBlockMixin from mod lithium->@Redirect::removeAllocation1()[Lnet/minecraft/class_2350; with priority 1000
+[00:45:38] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.RedStoneWireBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.redstone_wire.RedstoneWireBlockMixin from mod lithium->@Redirect::removeAllocation2()[Lnet/minecraft/class_2350; with priority 1000
+[00:45:40] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[00:45:40] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[00:45:40] [main/INFO]: Vanilla bootstrap took 5095 milliseconds
+[00:45:41] [main/INFO]: fabric loader environment detected
+[00:45:41] [main/INFO]: Loaded config for: cupboard.json
+[00:45:41] [main/INFO]: Loaded config amendments-common.json
+[00:45:41] [main/INFO]: Connectivity initialized
+[00:45:41] [main/INFO]: Initializing network...
+[00:45:41] [main/INFO]: Initialized network!
+[00:45:41] [main/INFO]: Bypassed Mojang DFU
+[00:45:42] [main/INFO]: Instantiating Mojang DFU
+[00:45:42] [main/ERROR]: No data fixer registered for crystallized_amber
+[00:45:42] [main/INFO]: initializing FastMove :3
+[00:45:42] [main/ERROR]: No data fixer registered for anomaly
+[00:45:43] [main/INFO]: Initializing ServerSide Packet Registries
+[00:45:43] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[00:45:43] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[00:45:43] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[00:45:43] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[00:45:43] [main/INFO]: [STDOUT]: All 24 config entries have been set properly
+[00:45:43] [main/INFO]: Registering ModBlocks for minetraps
+[00:45:43] [main/INFO]: Registering ModFluids for minetraps
+[00:45:43] [main/INFO]: Registering ModItems for minetraps
+[00:45:43] [main/INFO]: Registering Item Groups for minetraps
+[00:45:43] [main/INFO]: Giving mobs a fresh coat of paint...
+[00:45:43] [main/INFO]: chyz: now i just need to painstakingly move jerry (the little tiny lil fella tiny guy man button) to correct spot when recipe book is opened
+[00:45:44] [main/INFO]: Constructing common components for puzzleslib:main
+[00:45:44] [main/INFO]: [Quad] Initialising the Quad mod power! >:P
+[00:45:44] [main/INFO]: [STDOUT]: /workspaces/Modern-Craft/servidor_minecraft/config
+[00:45:44] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Is up to date!
+[00:45:45] [main/INFO]: Loaded config supplementaries-common.json
+[00:45:45] [main/INFO]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[00:45:45] [main/INFO]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[00:45:46] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:45:46] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:45:46] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[00:45:46] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[00:45:46] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[00:45:46] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[00:45:46] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[00:45:46] [main/INFO]: Registered JSON trade offer adapter.
+[00:45:46] [main/INFO]: [voicechat] Compatibility version 18
+[00:45:46] [main/INFO]: [voicechat] Loading plugins
+[00:45:46] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[00:45:46] [main/INFO]: [voicechat] Initializing plugins
+[00:45:46] [main/INFO]: Initializing Simple Voice Chat integration
+[00:45:46] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[00:45:46] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[00:45:46] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[00:45:46] [main/INFO]: Initialized block sets in 20ms
+[00:45:46] [main/INFO]: Initialized color sets in 35ms
+[00:45:46] [main/INFO]: Finished mod setup in: [0, 0, 0, 1, 0, 0, 10, 3, 0] ms
+[00:45:47] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[00:45:47] [main/WARN]: Found block type with duplicate id (ecologics:azalea), skipping
+[00:45:47] [main/WARN]: Found block type with duplicate id (ecologics:flowering_azalea), skipping
+[00:45:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:45:49] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 32 ms
+[00:45:49] [main/INFO]: Loaded config for: connectivity.json
+[00:45:49] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
+[00:45:51] [main/WARN]: prionmod:infection missing from registry, but requested!
+[00:45:51] [main/WARN]: prionmod:stun missing from registry, but requested!
+[00:45:51] [main/WARN]: prionmod:whispers_from_within missing from registry, but requested!
+[00:45:51] [main/WARN]: prionmod:internal_decay missing from registry, but requested!
+[00:45:51] [main/WARN]: prionmod:rage missing from registry, but requested!
+[00:45:51] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[00:45:51] [Worker-Main-4/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[00:45:52] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
 com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraft.class_3518.method_15270(class_3518.java:181) ~[server-intermediary.jar:?]
 	at net.minecraft.class_91$class_92.method_450(class_91.java:86) ~[server-intermediary.jar:?]
@@ -389,8 +387,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[01:37:56] [main/INFO]: Loaded 10 recipes
-[01:37:56] [main/ERROR]: Failed to load function watching:check
+[00:45:55] [main/INFO]: Loaded 10 recipes
+[00:45:55] [main/ERROR]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: command.unknown.command at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -406,687 +404,150 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[01:37:56] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[01:37:56] [main/INFO]: Loaded 6072 advancements
-[01:37:56] [main/INFO]: Loading exposure lenses:
-[01:37:56] [main/INFO]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
-[01:37:56] [main/INFO]: Reloading config...
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_rare_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_pyramid_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_cold_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_warm_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_well_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_common_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[01:37:56] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[01:37:56] [main/INFO]: Loaded 27 flute songs
-[01:37:56] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
-[01:37:56] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
-[01:37:56] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
-[01:37:56] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
-[01:37:56] [main/INFO]: Applied 7 data villager trades
-[01:37:56] [main/INFO]: [Quad] loaded default fuel values
-[01:37:56] [main/INFO]: [Quad] loaded quad fuel tags
-[01:37:56] [main/INFO]: Finished additional setup in 0 ms
-[01:37:56] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[01:37:57] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01:37:57] [main/INFO]: Applied 1782 biome modifications to 218 of 264 new biomes in 25.75 ms
-[01:37:57] [Server thread/INFO]: [Quad] cached original fuel map with count of: 2077
-[01:37:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:37:57] [Server thread/INFO]: Loading properties
-[01:37:57] [Server thread/INFO]: Default game type: SURVIVAL
-[01:37:57] [Server thread/INFO]: Generating keypair
-[01:37:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:37:57] [Server thread/INFO]: Using epoll channel type
-[01:37:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:37:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:37:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:37:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:37:57] [Server thread/INFO]: Preparing level "world"
-[01:37:58] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[01:37:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:37:58] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[01:37:58] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.state.CacheMixin from mod redirector->@Redirect::redirectSupportTypes()[Lnet/minecraft/class_5431; with priority 10, already redirected by modernfix-common.mixins.json:perf.cache_blockstate_cache_arrays.AbstractBlockStateCacheMixin from mod modernfix->@Redirect::getVoxelShapeValues()[Lnet/minecraft/class_5431; with priority 1000
-[01:37:58] [Server thread/INFO]: Time elapsed: 177 ms
-[01:37:58] [Server thread/INFO]: Done (0.707s)! For help, type "help"
-[01:37:58] [Server thread/WARN]: Dedicated server took 28.002 seconds to load
-[01:37:58] [Server thread/INFO]: Loaded config for: farsight.json
-[01:38:15] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:38:15] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'would-guns.gl.at.ply.gg:41907'
-[01:38:15] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 41907
-[01:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16843ms or 336 ticks behind
-[01:38:27] [Server thread/WARN]: Invalid statistic in ./world/stats/e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07.json: Don't know what prionmod:lacerator is
-[01:38:27] [Server thread/WARN]: Invalid statistic in ./world/stats/e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07.json: Don't know what prionmod:fat is
-[01:38:27] [Server thread/WARN]: Invalid statistic in ./world/stats/e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07.json: Don't know what prionmod:infbone is
-[01:38:27] [Server thread/INFO]: Andrew_50G[/127.199.13.86:38253] logged in with entity id 2 at (145.07925878120153, 158.6620199935764, 158.0628309985238)
-[01:38:27] [Server thread/INFO]: Sending server config values to client
-[01:38:41] [Server thread/INFO]: multiplayer.player.joined
-[01:38:41] [Server thread/INFO]: [voicechat] Received secret request of Andrew_50G (18)
-[01:38:41] [Server thread/INFO]: [voicechat] Sent secret to Andrew_50G
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:slammer
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:impaler
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:hellhound
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13388ms or 267 ticks behind
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:43] [Server thread/WARN]: Skipping Entity with id prionmod:hellhound
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:hellhound
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:38:44] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:envoy
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:hellhound
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:38:45] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:38:46] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:39:24] [Server thread/INFO]: Andrew_50G lost connection: multiplayer.disconnect.generic
-[01:39:24] [Server thread/INFO]: multiplayer.player.left
-[01:39:24] [Server thread/INFO]: [voicechat] Disconnecting client Andrew_50G
-[01:43:08] [Server thread/INFO]: Andrew_50G[/127.199.13.86:36537] logged in with entity id 164 at (145.07925878120153, 158.6620199935764, 158.0628309985238)
-[01:43:08] [Server thread/INFO]: Sending server config values to client
-[01:43:08] [Server thread/INFO]: multiplayer.player.joined
-[01:43:09] [Netty Epoll Server IO #5/INFO]: Receiving client config
-[01:43:10] [Server thread/INFO]: [voicechat] Received secret request of Andrew_50G (18)
-[01:43:10] [Server thread/INFO]: [voicechat] Sent secret to Andrew_50G
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:43:53] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:54] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:43:56] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:thrall
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:43:57] [Server thread/WARN]: Skipping BlockEntity with id prionmod:eggs_block_entity
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:43:57] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:44:14] [Server thread/INFO]: chat.type.admin
-[01:44:18] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:44:18] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:44:29] [Server thread/INFO]: chat.type.admin
-[01:44:31] [Server thread/INFO]: chat.type.admin
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:48:04] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:48:05] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:48:05] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:48:09] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:48:09] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:48:10] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:52:25] [Server thread/INFO]: chat.type.admin
-[01:52:28] [Server thread/INFO]: chat.type.admin
-[01:52:30] [Server thread/INFO]: chat.type.admin
-[01:52:30] [Server thread/INFO]: chat.type.admin
-[01:52:31] [Server thread/INFO]: chat.type.admin
-[01:52:33] [Server thread/INFO]: chat.type.admin
-[01:52:35] [Server thread/INFO]: chat.type.admin
-[01:52:36] [Server thread/INFO]: chat.type.advancement.task
-[01:52:38] [Server thread/INFO]: chat.type.admin
-[01:52:40] [Server thread/INFO]: chat.type.admin
-[01:52:45] [Server thread/INFO]: chat.type.admin
-[01:52:46] [Server thread/INFO]: chat.type.admin
-[01:52:49] [Server thread/INFO]: chat.type.admin
-[01:52:50] [Server thread/INFO]: chat.type.admin
-[01:52:57] [Server thread/INFO]: chat.type.admin
-[01:52:58] [Server thread/INFO]: chat.type.admin
-[01:53:01] [Server thread/INFO]: chat.type.admin
-[01:53:04] [Server thread/INFO]: chat.type.admin
-[01:54:36] [Server thread/INFO]: chat.type.advancement.task
-[01:54:37] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:54:39] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:54:41] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:54:41] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:54:41] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:54:41] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:54:44] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:54:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:54:47] [Server thread/WARN]: UUID of added entity already exists: class_1540['entity.minecraft.falling_block_type'/1733, l='ServerLevel[world]', x=93.50, y=79.00, z=-109.50]
-[01:54:48] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:55:21] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:55:22] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:55:22] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:55:23] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:55:23] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:55:23] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:55:23] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:55:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:55:25] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:55:25] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:55:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:55:33] [Server thread/INFO]: chat.type.admin
-[01:55:39] [Server thread/INFO]: chat.type.admin
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:19] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:22] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:25] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:26] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:27] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:27] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:28] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:28] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:28] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:28] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:56:28] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:fhuman
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:31] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[01:56:33] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:33] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:56:33] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:33] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:33] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:37] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[01:56:37] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:37] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:37] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:37] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:39] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[01:56:39] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[01:56:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[01:56:43] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[01:56:43] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:56:43] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[01:56:43] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[01:56:45] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:56:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[01:56:46] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[01:58:23] [Server thread/INFO]: chat.type.advancement.task
-[01:58:31] [Server thread/INFO]: chat.type.advancement.task
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedhorse
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:nightwalker
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[02:00:40] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:42] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:cannibal
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[02:00:44] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:45] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:starved
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:infectedcow
-[02:00:47] [Server thread/WARN]: Skipping Entity with id prionmod:hellhound
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:lacerator
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedpig
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:vile
-[02:00:49] [Server thread/WARN]: Skipping Entity with id prionmod:infectedsheep
-[02:00:51] [Server thread/WARN]: Skipping Entity with id prionmod:infectedwolf
-[02:03:31] [Server thread/INFO]: chat.type.advancement.task
-[02:03:58] [Server thread/INFO]: death.attack.arrow
-[02:03:58] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 32, 147, 322
-[02:04:33] [Server thread/INFO]: chat.type.advancement.task
-[02:05:45] [Server thread/INFO]: chat.type.advancement.task
-[02:06:03] [Server thread/INFO]: death.attack.arrow
-[02:06:03] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 31, 146, 320
-[02:07:08] [Server thread/INFO]: chat.type.advancement.task
-[02:08:49] [Server thread/INFO]: chat.type.admin
-[02:09:28] [Server thread/INFO]: chat.type.admin
-[02:11:21] [Server thread/INFO]: chat.type.advancement.task
-[02:12:30] [Server thread/INFO]: chat.type.advancement.task
-[02:18:59] [Server thread/WARN]: Andrew_50G moved wrongly!
-[02:28:20] [Server thread/INFO]: Andrew_50G lost connection: multiplayer.disconnect.generic
-[02:28:20] [Server thread/INFO]: multiplayer.player.left
-[02:28:20] [Server thread/INFO]: [voicechat] Disconnecting client Andrew_50G
-[02:28:32] [Server thread/INFO]: commands.stop.stopping
-[02:28:33] [Server thread/INFO]: Stopping server
-[02:28:33] [Server thread/INFO]: Saving players
-[02:28:33] [Server thread/INFO]: Saving worlds
-[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:28:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[02:28:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:45:55] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[00:45:55] [main/INFO]: Loaded 6072 advancements
+[00:45:55] [main/INFO]: Loading exposure lenses:
+[00:45:55] [main/INFO]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[00:45:55] [main/INFO]: Reloading config...
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_rare_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_pyramid_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_cold_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_warm_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_well_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_common_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[00:45:55] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[00:45:55] [main/INFO]: Loaded 27 flute songs
+[00:45:55] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
+[00:45:55] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
+[00:45:55] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
+[00:45:55] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
+[00:45:55] [main/INFO]: Applied 7 data villager trades
+[00:45:55] [main/INFO]: [Quad] loaded default fuel values
+[00:45:55] [main/INFO]: [Quad] loaded quad fuel tags
+[00:45:55] [main/INFO]: Finished additional setup in 0 ms
+[00:45:56] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[00:45:56] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[00:45:56] [main/INFO]: Applied 1782 biome modifications to 218 of 264 new biomes in 36.47 ms
+[00:45:56] [Server thread/INFO]: [Quad] cached original fuel map with count of: 2077
+[00:45:56] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:45:56] [Server thread/INFO]: Loading properties
+[00:45:56] [Server thread/INFO]: Default game type: SURVIVAL
+[00:45:56] [Server thread/INFO]: Generating keypair
+[00:45:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:45:56] [Server thread/INFO]: Using epoll channel type
+[00:45:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:45:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:45:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:45:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:45:56] [Server thread/INFO]: Preparing level "world"
+[00:45:57] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[00:45:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:45:57] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[00:45:57] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.state.CacheMixin from mod redirector->@Redirect::redirectSupportTypes()[Lnet/minecraft/class_5431; with priority 10, already redirected by modernfix-common.mixins.json:perf.cache_blockstate_cache_arrays.AbstractBlockStateCacheMixin from mod modernfix->@Redirect::getVoxelShapeValues()[Lnet/minecraft/class_5431; with priority 1000
+[00:45:57] [Server thread/INFO]: Time elapsed: 160 ms
+[00:45:57] [Server thread/INFO]: Done (0.665s)! For help, type "help"
+[00:45:57] [Server thread/WARN]: Dedicated server took 26.315 seconds to load
+[00:45:57] [Server thread/INFO]: Loaded config for: farsight.json
+[00:46:15] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[00:46:15] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'would-guns.gl.at.ply.gg:41907'
+[00:46:15] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 41907
+[00:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17916ms or 358 ticks behind
+[00:46:30] [Server thread/INFO]: Andrew_50G[/127.199.13.86:51259] logged in with entity id 2 at (62.139736084175134, 155.0, 315.1216851995568)
+[00:46:30] [Server thread/INFO]: Sending server config values to client
+[00:46:31] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:46:46] [Server thread/INFO]: multiplayer.player.joined
+[00:46:46] [Server thread/INFO]: [voicechat] Received secret request of Andrew_50G (18)
+[00:46:46] [Server thread/INFO]: [voicechat] Sent secret to Andrew_50G
+[00:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15404ms or 308 ticks behind
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:starved is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:infectedpig is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:starved is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:infectedhorse is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:infectedcow is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:infectedwolf is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:infectedsheep is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:lacerator is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:fhuman is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:cannibal is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:brain is
+[00:46:46] [Server thread/WARN]: Invalid statistic in ./world/stats/f6de3262-ca80-306a-bc26-d2e8f2aee178.json: Don't know what prionmod:infbone is
+[00:46:46] [Server thread/INFO]: inquisitor1102[/127.0.194.70:41053] logged in with entity id 113 at (198.5, 164.0, 157.5)
+[00:46:46] [Server thread/INFO]: Sending server config values to client
+[00:46:47] [Server thread/INFO]: multiplayer.player.joined
+[00:46:47] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[00:46:47] [Server thread/INFO]: [voicechat] Received secret request of inquisitor1102 (18)
+[00:46:47] [Server thread/INFO]: [voicechat] Sent secret to inquisitor1102
+[00:47:05] [Server thread/INFO]: commands.op.success
+[00:48:23] [Server thread/INFO]: chat.type.advancement.task
+[00:50:59] [Server thread/INFO]: chat.type.advancement.task
+[00:51:43] [Server thread/INFO]: [Not Secure] chat.type.text
+[00:52:52] [Server thread/INFO]: RAUL_ADRIAN[/127.95.129.221:51385] logged in with entity id 1312 at (3.5, 113.0, 37.5)
+[00:52:52] [Server thread/INFO]: Sending server config values to client
+[00:52:53] [Server thread/INFO]: multiplayer.player.joined
+[00:52:54] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:53:00] [Server thread/INFO]: [voicechat] Received secret request of RAUL_ADRIAN (18)
+[00:53:00] [Server thread/INFO]: [voicechat] Sent secret to RAUL_ADRIAN
