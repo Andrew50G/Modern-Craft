@@ -1,0 +1,45 @@
+{
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-24 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2024-12-24 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-24 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-24 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "overgrown_greens": "2024-12-24 01:00:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "overgrown_greens": "2024-12-24 01:00:03 +0000"
+    },
+    "done": false
+  },
+  "watching:main/root": {
+    "criteria": {
+      "requirement": "2024-12-24 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

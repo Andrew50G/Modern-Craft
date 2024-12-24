@@ -84,6 +84,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-24 00:55:12 +0000",
       "bread": "2024-12-22 23:46:14 +0000"
     },
     "done": false
@@ -1876,6 +1877,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-24 00:56:47 +0000"
+    },
+    "done": true
+  },
   "watching:main/didnt_notice_herobrine": {
     "criteria": {
       "requirement": "2024-12-24 00:48:23 +0000"
@@ -1891,6 +1898,12 @@
   "watching:main/root": {
     "criteria": {
       "requirement": "2024-12-24 00:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-24 00:56:47 +0000"
     },
     "done": true
   },
